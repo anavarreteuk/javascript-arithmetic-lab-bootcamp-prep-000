@@ -23,10 +23,10 @@ function dec(a) {
 }
 
 function makeInt(n) {
-var parseInt ('0x2328', 10);
+var var1 = parseInt ('0x2328', 10);
 a = (n.toString()) ;
  
  
-  return (a)
+  return (a) 
 }
  
