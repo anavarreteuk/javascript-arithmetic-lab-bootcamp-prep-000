@@ -23,8 +23,9 @@ function dec(a) {
 }
 
 function makeInt(n) {
-a = (n.toString()); 
- var parseInt('0x2328', 10);
+a = (n.toString()) ;
+ 
+ var parseInt('n', 10)
   return (a)
 }
  
