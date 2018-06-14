@@ -29,4 +29,9 @@ a = (n.toString()) ;
  
   return (a), (var1); 
 }
- 
+
+function preserveDecimal(n) {
+  var var2 = parseFloat (n);
+  
+  return (var2);
+}
