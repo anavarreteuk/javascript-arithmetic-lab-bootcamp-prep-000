@@ -23,7 +23,7 @@ function dec(a) {
 }
 
 function makeInt(n) {
-var parseInt
+var parseInt('n', 10);
 a = (n.toString()) ;
  
  
