@@ -26,8 +26,7 @@ function makeInt(n) {
 var var1 = parseInt (n, 10);
 a = (n.toString()) ;
  
- 
-  return (a), (var1); 
+ return (a), (var1); 
 }
 
 function preserveDecimal(n) {
