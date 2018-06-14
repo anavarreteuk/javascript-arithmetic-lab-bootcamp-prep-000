@@ -24,7 +24,7 @@ function dec(a) {
 
 function makeInt(n) {
 a = (n.toString()); 
-  
+ var  
   return (a)
 }
  
